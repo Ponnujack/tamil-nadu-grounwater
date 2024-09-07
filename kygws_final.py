@@ -598,6 +598,4 @@ Original file is located at
 #       st.markdown('<div style="text-align: justify;">The developer is currently working as Associate Professor (Environmental Sciences), Department of Environmental Sciences, Tamil Nadu Agricultural University, Coimbatore, India. He has been awarded PhD. Environmental Sciences by Indian Agricultural Research Institute, New Delhi in 2008. He has an area of specialization in Crop Simulation Model, Climate change impact, adaptation and mitigation studies, Atmospheric trace gas emission studies, Tropospheric Ozone studies. In his piece of work, a part had been contributed as visiting scientist in ICRISAT, Hyderabad. He had handled external funded projects such NICRA, DST SERB and ISRO. He has about 12 years of experience. He has published 5 books, 8 book chapters and 26 research papers in various national and international journals. He guided M.Sc students. He Has been awarded with Best Trainee award (2017), AETDS-Environmentalist Award (2021), NESA Scientist of the Year (2022), Scientist Achiever Award (2024).</div>', unsafe_allow_html=True)
 #   ###
 
-"""! streamlit run app.py & npx localtunnel --port 8501"""
-
 #! streamlit run app.py & npx localtunnel --port 8501

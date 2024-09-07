@@ -7,16 +7,16 @@ Original file is located at
     https://colab.research.google.com/drive/1xlZyGi3TYCyponCcjsA5cmxdYsDoxVr7
 """
 
-! pip install streamlit -q
+#! pip install streamlit -q
 
 #from google.colab import drive
 #drive.mount('/content/drive')
 
-!wget -q -O - ipv4.icanhazip.com
+#!wget -q -O - ipv4.icanhazip.com
 
-! pip install streamlit_option_menu
+#! pip install streamlit_option_menu
 
-! pip install plotly-express
+#! pip install plotly-express
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile app.py

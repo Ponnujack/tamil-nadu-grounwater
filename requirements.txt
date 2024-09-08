@@ -2,7 +2,7 @@ streamlit
 streamlit_option_menu
 pandas
 numpy
-plotly.express
+plotly-express
 openpyxl
 base64
 	
